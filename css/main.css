@@ -18,3 +18,17 @@ body {
 .hidden {
     display: none;
 }
+.icons { text-align: center;}
+
+.icons h2 { font-size: 2em; margin: 10px 0;
+
+}
+
+.icons div {
+    width: 45%;
+    display: inline-block;
+}
+
+.icons div img {
+    width: 100%;
+}

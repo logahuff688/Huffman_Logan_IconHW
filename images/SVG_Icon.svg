@@ -1,29 +1,4 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/main.css">
-    <title>.: Icon Marketplace :.</title>
-</head>
-<body>
-    <header>
-        <h1 class="hidden"> My super Awesome Icon Marketplace</h1>
-        <h2>This is the header</h2>
-    </header>
-
-    <section class="icons">
-        <h1>all my awesome icons</h1>
-        <div>
-        <img src="images/SVG_Icon.png" alt="bitmap graphic">
-        </div>
-        <div>
-        <img src="images/SVG_Icon.svg" alt="vector graphic">
-        </div>
-
-        <div>
-            <!-- inline SVG starts here -->
-            <?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 26.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 166.7 167" style="enable-background:new 0 0 166.7 167;" xml:space="preserve">
@@ -328,15 +303,3 @@
 		<ellipse transform="matrix(0.1509 -0.9885 0.9885 0.1509 -11.5186 153.3138)" class="st5" cx="83.5" cy="83.4" rx="74.9" ry="74.9"/>
 </g>
 </svg>
-
-            <!-- inline SVG ends here -->
-        </div>
-    </section>
-    
-    <footer>
-        <h1 class="hidden">footer</h1>
-        <h2>footer content here</h2>
-    </footer>
-    <script src="js/main.js"></script>
-</body>
-</html>
